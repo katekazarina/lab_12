@@ -1,0 +1,11 @@
+C:\Users\11\RiderProjects\lab_12\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\11\RiderProjects\lab_12\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\11\RiderProjects\lab_12\TestProject1\bin\Debug\lab_12.exe
+C:\Users\11\RiderProjects\lab_12\TestProject1\bin\Debug\nunit.framework.dll
+C:\Users\11\RiderProjects\lab_12\TestProject1\bin\Debug\lab_12.pdb
+C:\Users\11\RiderProjects\lab_12\TestProject1\bin\Debug\nunit.framework.xml
+C:\Users\11\RiderProjects\lab_12\TestProject1\obj\Debug\TestProject1.csprojAssemblyReference.cache
+C:\Users\11\RiderProjects\lab_12\TestProject1\obj\Debug\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\11\RiderProjects\lab_12\TestProject1\obj\Debug\TestProject1.csproj.CopyComplete
+C:\Users\11\RiderProjects\lab_12\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\11\RiderProjects\lab_12\TestProject1\obj\Debug\TestProject1.pdb
